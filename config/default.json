@@ -1,0 +1,11 @@
+{
+    "throttle": {
+      "api": {
+       "max": 1000,
+       "windowMs": 3600000,
+       "headers": true,
+       "message": "Too many API calls from this IP, please try again soon."
+      }
+    
+     }
+  }

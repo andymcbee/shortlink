@@ -6,11 +6,8 @@ const { v4: uuidv4 } = require('uuid');
 exports.create = async function(req, res){
 
 
-  //console.log(process.env.OPENAI_API_KEY)
 
-
-
-throw "Testing an error!"
+console.log("Create triggered....")
 
 
 //
